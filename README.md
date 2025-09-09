@@ -1,5 +1,13 @@
-# Yulu Bike Sharing – Data Science Case Study
+<p align="center">
+  <img
+    src="https://github.com/AlkaShukla26/Yulu_bikes/blob/main/WhatsApp%20Image%202025-09-07%20at%2000.01.50.jpeg?raw=true"
+    alt="Yulu Bikes Project"
+    width="567"
+    height="264"
+  />
+</p>
 
+# Yulu Bike Sharing – Data Science Case Study
 ## 📌 Project Overview
 This project analyzes **Yulu bike rental demand** (10,886 records, 12 features) to understand how **time, weather, seasonality, and working patterns** influence user behavior. Using **EDA, hypothesis testing, and statistical modeling**, the goal was to extract insights and provide actionable recommendations for business decisions.
 
